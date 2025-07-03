@@ -1,35 +1,4 @@
-<!DOCTYPE html>
-<html lang="zh-Hant">
-<head>
-  <meta charset="UTF-8">
-  <title>邱苡榕的資安證照集</title>
-  <style>
-    body {
-      font-family: "Helvetica", sans-serif;
-      margin: 40px;
-      background-color: #ffffff;
-      color: #333;
-      line-height: 1.6;
-    }
-    h1 {
-      color: #0055aa;
-    }
-    h2 {
-      color: #0066cc;
-      margin-top: 30px;
-    }
-    a {
-      color: #0077cc;
-    }
-    img {
-      max-width: 400px;
-      display: block;
-      margin: 10px 0;
-    }
-    .cert {
-      margin-bottom: 40px;
-    }
-  </style>
+
 </head>
 <body>
 
